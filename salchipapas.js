@@ -55,9 +55,13 @@ return a/b} */
  return multiplicar (t,t) 
 }
 console.log(cuadrado_de_un_número()) */
-Trasnochando por pendejiar 😎😎😎😎😎
+
+//Trasnochando por pendejiar 😎
 
 
+
+//Trasnochando una chimba
+//oeeeelo 😎
 
 
 function promedioDe3Números(a,b,c){
