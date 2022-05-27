@@ -55,8 +55,8 @@ return a/b} */
  return multiplicar (t,t) 
 }
 console.log(cuadrado_de_un_número()) */
-
-
+//Trasnochando una chimba
+//oeeeelo 😎
 
 function promedioDe3Números(a,b,c){
  /*    let resultado_de_a_mas_b= sumar(a,b) 
