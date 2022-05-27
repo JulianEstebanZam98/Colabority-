@@ -55,6 +55,8 @@ return a/b} */
  return multiplicar (t,t) 
 }
 console.log(cuadrado_de_un_número()) */
+Trasnochando por pendejiar 😎😎😎😎😎
+
 
 
 
